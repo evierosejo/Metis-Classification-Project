@@ -1,7 +1,7 @@
 # Classifying Energy Star Buildings in NYC
 
 ### Question
-With the newly ubiquiotous consumer attention to environmental impacts, Realtor.com is looking to add a new filter into their property listing search engine to address sustainability when searching for a new home. Receiving an ENERGY STAR Certification indicates a building performs better in energy and water consumption than at least 75% of similar buildings nationwide. Enabling users to filter by buildings that are likely elegible to be ENERGY STAR certified will allow eco-conscious individuals to apply their values to the real estate search process, a feature not offered by competitors. 
+With the newly ubiquiotous public attention to the environmental impacts of our consumption-based economy, Realtor.com is looking to add a new filter into their property listing search engine to address sustainability when searching for a new home. Receiving an ENERGY STAR Certification indicates a building performs better in energy and water consumption than at least 75% of similar buildings nationwide. Enabling users to filter by buildings that are likely elegible to be ENERGY STAR certified will allow eco-conscious individuals to apply their values to the real estate search process, a feature not offered by competitors. 
 
 In this project, I will develop a classification model to infer whether a building is elegible to be ENERGY STAR certified based on the most current NYC Department of Buildings data. 
 
